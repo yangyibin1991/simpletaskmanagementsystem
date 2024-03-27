@@ -1,0 +1,32 @@
+{
+  "name": "simpletaskmanagementsystem",
+  "version": "1.0.2",
+  "description": "",
+  "type": "module",
+  "main": "simpletaskmanagementsystem.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yangyibin1991/simpletaskmanagementsystem"
+  },
+  "website": "https://github.com/yangyibin1991/simpletaskmanagementsystem.git",
+  "keywords": [
+    "simpletaskmanagementsystem"
+  ],
+  "author": "yangyibin1991",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yangyibin1991/simpletaskmanagementsystem/issues"
+  },
+  "publishConfig": {
+    "access": "public",
+    "registry": "https://registry.npmjs.org"
+  },
+  "homepage": "https://github.com/yangyibin1991/simpletaskmanagementsystem#readme",
+  "dependencies": {
+    "onlinelearningplatforms": "1.0.2",
+    "baycmonkey": "1.0.2"
+  }
+}
